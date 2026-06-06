@@ -101,20 +101,6 @@ Analyzed 35K+ crypto trades with sentiment data. Identified highest losses durin
 </td>
 <td width="50%">
 
-### 📈 ML Analytics Suite
-**End-to-End Machine Learning Projects**
-
-Collection of ML projects including unemployment analysis, sales prediction, and Iris classification. Covers EDA, feature engineering, predictive modeling, and visualization.
-
-`Python` `Scikit-Learn` `Pandas` `Matplotlib` `Jupyter`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-F2C811?style=flat-square&logo=github&logoColor=black)](https://github.com/ArfatShaikh2912)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 💼 Experience
 
