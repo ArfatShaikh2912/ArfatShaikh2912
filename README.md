@@ -12,16 +12,14 @@
 
 ## 👋 About Me
 
-> *Building AI systems that solve real problems — from women's safety to enterprise procurement intelligence.*
+I'm a **Final-Year BSc Data Science & Analytics** student at VES College, Mumbai — passionate about turning raw data into real-world impact through **AI, Machine Learning, and intelligent analytics**.
 
-I'm a **BSc Data Science & Analytics** student at VES College, Mumbai — specializing in **AI Engineering, LLMs, and Data Science**. I build production-grade AI systems backed by published research, not just notebooks.
-
-- 🔭 Currently building: **AI Agent frameworks** and **RAG pipelines**
+- 🔭 Currently building: **AI-powered apps and data pipelines**
 - 📄 Published Researcher: **IJRASET Journal, May 2025** — RakshaDeep AI Safety System
 - 💼 4x Internship Experience: **Prodigy InfoTech · Cognifyz · Oasis Infobyte · Yuva Intern**
-- 🌱 Exploring: **Multi-agent systems · LangGraph · MLOps**
+- 🌱 Exploring: **LLMs · GenAI · MLOps · Advanced SQL**
 - 📍 Based in **Mumbai, India** — open to remote/hybrid internships
-- 🎯 Target: AI Engineering & Data Science roles at MNCs and AI startups
+- 🎯 Target: **Data Science & AI roles at MNCs and startups**
 
 ---
 
@@ -54,53 +52,44 @@ I'm a **BSc Data Science & Analytics** student at VES College, Mumbai — specia
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🛡️ RakshaDeep — AI-Powered Women Safety System
+> Published Research · Firebase · Streamlit · ML · Geolocation
 
-### 🛡️ RakshaDeep
-**AI-Powered Women Safety System**
-
-Secure real-time reporting system with Streamlit + Firebase. Features alert monitoring, map-based NGO visualization, anonymous code-word alerts, and admin dashboard. **Backed by a published IJRASET research paper.**
+Secure real-time reporting system built with Streamlit and Firebase. Features alert monitoring, map-based NGO visualization, anonymous code-word alerts, and a live admin dashboard. Privacy-first design for Mumbai-based NGOs. **Backed by a published IJRASET research paper, May 2025.**
 
 `Python` `Firebase` `Streamlit` `ML` `Geolocation`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-6E40C9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/rakshadeep)
+[![View Repo](https://img.shields.io/badge/View%20Repo-6E40C9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/rakshadeep)
 
-</td>
-<td width="50%">
+---
 
-### 🧠 ProcureMind AI
-**Intelligent Procurement Risk & Decision Engine**
+### 🧠 ProcureMind AI — Intelligent Procurement Risk Engine
+> Explainable AI · Fraud Detection · Vendor Risk Scoring
 
-AI-powered procurement system with vendor risk scoring, contract analysis, and fraud detection across 290+ records. Features an Explainable AI engine with full reasoning chains.
+AI-powered procurement intelligence system with vendor risk scoring, contract analysis, and fraud detection across 290+ procurement records. Features an Explainable AI engine with trust, risk, and fraud scores with full reasoning chains and a real-time executive dashboard.
 
 `Python` `Streamlit` `XAI` `Scikit-Learn` `Pandas`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-0F9D58?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/procuremind-ai)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0F9D58?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/procuremind-ai)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### 📊 Hyperliquid Sentiment Analysis
-**Crypto Trade Intelligence Dashboard**
+### 📊 Hyperliquid Sentiment Analysis — Crypto Trade Intelligence
+> 35K+ Trades · Sentiment Analysis · Risk Dashboard · Primetrade.ai
 
-Analyzed 35K+ crypto trades with sentiment data. Identified highest losses during Extreme Fear periods. Built a risk-zone dashboard and recommended a 40% leverage reduction strategy for Primetrade.ai.
+Analyzed 35,000+ crypto trades with sentiment data using Python and Excel. Identified highest losses occurring during Extreme Fear market periods. Built a risk-zone dashboard and delivered a 40% leverage reduction strategy recommendation for Primetrade.ai.
 
-`Python` `Excel` `Sentiment Analysis` `Dashboard`
+`Python` `Excel` `Sentiment Analysis` `Data Analytics` `Dashboard`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-F7931E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/hyperliquid-sentiment)
+[![View Repo](https://img.shields.io/badge/View%20Repo-F7931E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/hyperliquid-sentiment)
 
-</td>
-<td width="50%">
-
+---
 
 
 ## 💼 Experience
@@ -142,7 +131,7 @@ Analyzed 35K+ crypto trades with sentiment data. Identified highest losses durin
 
 ## 📬 Let's Connect
 
-Actively looking for **AI/ML internships**, **research collaborations**, and **open source opportunities**.
+Actively looking for **Data Science, AI/ML internships**, **research collaborations**, and **open source opportunities**.
 
 📧 arfushaikh2912@gmail.com · 📍 Mumbai, India · 🌐 Open to remote
 
