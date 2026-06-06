@@ -91,17 +91,6 @@ Explainable AI engine analyzing 290+ procurement records for fraud detection and
 <tr>
 <td width="50%">
 
-### 🚇 Mumbai Connect
-**Smart Transport Optimization System**
-
-Predictive routing engine for Mumbai's transit network using ML demand forecasting + SQL analytics.
-
-`Python` `SQL` `Scikit-Learn` `Pandas` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-F2C811?style=flat-square&logo=github&logoColor=black)](https://github.com/ArfatShaikh2912/mumbai-connect)
-
-</td>
-<td width="50%">
 
 ### 📊 Hyperliquid Trader Sentiment Analysis
 **Crypto Trade Intelligence Dashboard**
