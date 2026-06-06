@@ -17,8 +17,8 @@
 I'm a **BSc Data Science & Analytics** student at VES College, Mumbai — specializing in **AI Engineering, LLMs, and Data Science**. I build production-grade AI systems backed by published research, not just notebooks.
 
 - 🔭 Currently building: **AI Agent frameworks** and **RAG pipelines**
-- 📄 Published Researcher: **IJRASET Journal** — AI-powered women safety systems
-- 💼 3x Internship Experience: **Prodigy InfoTech · Cognifyz Technologies · Oasis Infobyte**
+- 📄 Published Researcher: **IJRASET Journal, May 2025** — RakshaDeep AI Safety System
+- 💼 4x Internship Experience: **Prodigy InfoTech · Cognifyz · Oasis Infobyte · Yuva Intern**
 - 🌱 Exploring: **Multi-agent systems · LangGraph · MLOps**
 - 📍 Based in **Mumbai, India** — open to remote/hybrid internships
 - 🎯 Target: AI Engineering & Data Science roles at MNCs and AI startups
@@ -30,18 +30,16 @@ I'm a **BSc Data Science & Analytics** student at VES College, Mumbai — specia
 **AI / ML / Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **GenAI / LLMs**
 
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 **Data & Visualization**
 
@@ -50,12 +48,12 @@ I'm a **BSc Data Science & Analytics** student at VES College, Mumbai — specia
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Infrastructure**
+**Infrastructure & Tools**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -68,9 +66,9 @@ I'm a **BSc Data Science & Analytics** student at VES College, Mumbai — specia
 ### 🛡️ RakshaDeep
 **AI-Powered Women Safety System**
 
-Real-time threat detection using ML + geolocation alerts + Firebase + NGO network routing. Backed by a **published research paper in IJRASET**.
+Secure real-time reporting system with Streamlit + Firebase. Features alert monitoring, map-based NGO visualization, anonymous code-word alerts, and admin dashboard. Privacy-first design for Mumbai NGOs. **Backed by a published IJRASET research paper.**
 
-`Python` `Firebase` `ML` `Geolocation` `Streamlit`
+`Python` `Firebase` `Streamlit` `ML` `Geolocation`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-6E40C9?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/rakshadeep)
 
@@ -78,11 +76,11 @@ Real-time threat detection using ML + geolocation alerts + Firebase + NGO networ
 <td width="50%">
 
 ### 🧠 ProcureMind AI
-**Enterprise Procurement Intelligence System**
+**Intelligent Procurement Risk & Decision Engine**
 
-Explainable AI engine analyzing 290+ procurement records for fraud detection and vendor risk scoring. Built during internship at real client scale.
+AI-powered procurement system with vendor risk scoring, contract analysis, and fraud detection across 290+ records. Features an Explainable AI engine with trust, risk, and fraud scores with full reasoning chains.
 
-`Python` `XAI` `Scikit-Learn` `Pandas` `SQL`
+`Python` `Streamlit` `XAI` `Scikit-Learn` `Pandas`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-0F9D58?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/procuremind-ai)
 
@@ -91,26 +89,26 @@ Explainable AI engine analyzing 290+ procurement records for fraud detection and
 <tr>
 <td width="50%">
 
-### 🚇 Mumbai Connect
-**Smart Transport Optimization System**
+### 📊 Hyperliquid Trader Sentiment Analysis
+**Crypto Trade Intelligence Dashboard**
 
-Predictive routing engine for Mumbai's transit network using ML demand forecasting + SQL analytics.
+Analyzed 35K+ crypto trades with sentiment data. Identified highest losses during Extreme Fear periods. Built a risk-zone dashboard and recommended a 40% leverage reduction strategy for Primetrade.ai.
 
-`Python` `SQL` `Scikit-Learn` `Pandas` `Streamlit`
+`Python` `Excel` `Data Analytics` `Dashboard` `Sentiment Analysis`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-F2C811?style=flat-square&logo=github&logoColor=black)](https://github.com/ArfatShaikh2912/mumbai-connect)
+[![Repo](https://img.shields.io/badge/View%20Repo-F7931E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/hyperliquid-sentiment)
 
 </td>
 <td width="50%">
 
-### 🥷 CyberNinja
-**Cyberpunk AI Hack-and-Slash Game**
+### 📈 ML Analytics Suite
+**End-to-End Machine Learning Projects**
 
-Adaptive enemy AI using behavior trees + dynamic difficulty scaling. Shipped as a playable demo.
+Collection of ML projects including unemployment analysis, sales prediction, and Iris classification. Covers EDA, feature engineering, predictive modeling, and visualization.
 
-`Godot` `GDScript` `Python` `AI Behavior Trees`
+`Python` `Scikit-Learn` `Pandas` `Matplotlib` `Jupyter`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1A1A2E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/cyberninja)
+[![Repo](https://img.shields.io/badge/View%20Repo-F2C811?style=flat-square&logo=github&logoColor=black)](https://github.com/ArfatShaikh2912)
 
 </td>
 </tr>
@@ -120,12 +118,11 @@ Adaptive enemy AI using behavior trees + dynamic difficulty scaling. Shipped as 
 
 ## 💼 Experience
 
-| Role | Company | Period |
-|------|---------|--------|
-| Data Science Intern | Prodigy InfoTech | 2024 |
-| Data Analytics Intern | Cognifyz Technologies | 2024 |
-| Data Science Intern | Oasis Infobyte | 2024 |
-| Virtual Experience | JPMorgan · BCG · Goldman Sachs (Forage) | 2024 |
+| Role | Organization | Type |
+|------|-------------|------|
+| Data Science Intern | Prodigy InfoTech · Cognifyz Technologies · Oasis Infobyte | Internship |
+| Data Analyst Strategist | Yuva Intern | Internship |
+| Virtual Experience | Quantium · Deloitte · Tata (Forage) | Simulation |
 
 ---
 
@@ -148,10 +145,11 @@ Adaptive enemy AI using behavior trees + dynamic difficulty scaling. Shipped as 
 
 ## 🏆 Achievements
 
-- 📄 **Published Researcher** — AI-Powered Women Safety System, IJRASET Journal
-- 💼 **3x Industry Internships** — Prodigy InfoTech · Cognifyz Technologies · Oasis Infobyte
-- 🎓 **BSc Data Science & Analytics** — VES College, Mumbai (2022–2025)
-- 🌐 **Virtual Experience Programs** — JPMorgan Chase · BCG · Goldman Sachs
+- 📄 **Published Researcher** — RakshaDeep, IJRASET Journal, May 2025
+- 💼 **4x Industry Internships** — Prodigy InfoTech · Cognifyz · Oasis Infobyte · Yuva Intern
+- 🎓 **BSc Data Science & Analytics** — VES College, Mumbai (2024–2027)
+- 🌐 **Virtual Programs** — Quantium · Deloitte · Tata via Forage
+- 📜 **Certifications** — DSA (Simplilearn) · Data Fundamentals (IBM) · Sales Developer (ExcelR)
 
 ---
 
