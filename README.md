@@ -103,20 +103,17 @@ Predictive routing engine for Mumbai's transit network using ML demand forecasti
 </td>
 <td width="50%">
 
-### 🥷 CyberNinja
-**Cyberpunk AI Hack-and-Slash Game**
+### 📊 Hyperliquid Trader Sentiment Analysis
+**Crypto Trade Intelligence Dashboard**
 
-Adaptive enemy AI using behavior trees + dynamic difficulty scaling. Shipped as a playable demo.
+Analyzed 35K+ crypto trades with sentiment data. Identified highest losses during Extreme Fear periods. Built a risk-zone dashboard and recommended a 40% leverage reduction strategy for Primetrade.ai.
 
-`Godot` `GDScript` `Python` `AI Behavior Trees`
+`Python` `Excel` `Data Analytics` `Dashboard` `Sentiment Analysis`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1A1A2E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/cyberninja)
+[![Repo](https://img.shields.io/badge/View%20Repo-F7931E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArfatShaikh2912/hyperliquid-sentiment)
 
 </td>
-</tr>
-</table>
-
----
+<td width="50%">
 
 ## 💼 Experience
 
